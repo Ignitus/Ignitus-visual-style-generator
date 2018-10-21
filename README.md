@@ -107,6 +107,23 @@ http://rx.stlcop.edu/wcenter/AMA.htm)
 Helpful Modules : [Pybtex](https://docs.pybtex.org/api/formatting.html)
 For more details click [here](https://website.aub.edu.lb/it/acps/Documents/PDF/citation_styles.pdf)
 
+### 5) DPI
+The DPI values are only metadata on computer images. They give hints on how to display or print
+an image. Printing a 360 x 360 image with 360 DPI will result in a 11 inches printout. A simplified way to explain
+it: The DPI setting recommends a zoom level for the image. Saving with other DPIs will not change the content of the
+image. If you want a larger image use a larger size and a larger font. Image resolution, number of pixels and print size
+are related mathematically: Pixels = Resolution (DPI) Print size (in inches). The various famous libraries for plotting and
+saving images are
+* Plotly
+* matplotlib
+* Seaborn
+* ggplot
+* bokeh
+* pygal
+* geoplotlib
+* gleam
+* missingno
+* Leather.
 
 
 
